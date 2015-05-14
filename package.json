@@ -1,0 +1,19 @@
+{
+  "name": "domainbot",
+  "version": "0.0.0",
+  "description": "command line node.js tool for domain research",
+  "main": "domainbot",
+  "dependencies": {
+    "commander-plus": "~0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "domain"
+  ],
+  "author": "antjazak@gmail.com",
+  "license": "BSD"
+}
